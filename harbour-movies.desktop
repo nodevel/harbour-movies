@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Name=Movies
+Icon=harbour-movies
+Exec=harbour-movies
+
